@@ -16,19 +16,22 @@ export default function About() {
               <span className="text-primary">Driven by Results</span>
             </h2>
             <p className="text-gray-600 leading-relaxed mb-4">
-              TiwaAK is a dynamic trading and business consultancy firm committed to
-              delivering exceptional value across global markets. We combine deep industry
-              knowledge with strategic acumen to help our clients navigate complex business
-              environments.
+              TiwaAK is a multidisciplinary firm operating across three core domains: global
+              trading, technology & AI consultancy, and strategic project consultancy. We exist
+              to help organisations move faster, smarter and with greater confidence — whether
+              they are entering new markets, deploying intelligent systems, or delivering
+              complex projects.
             </p>
             <p className="text-gray-600 leading-relaxed mb-4">
-              From facilitating international trade to designing growth strategies for
-              ambitious businesses, we are the partner you can rely on — every step of the way.
+              On the trading side, we connect buyers and sellers across international commodity
+              and goods markets with precision and reliability. On the technology front, we
+              design and implement AI-native solutions, software systems, statistical models and
+              data-driven market re-prediction tools that give our clients a genuine edge.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              Our multidisciplinary team brings together expertise in commodities, finance,
-              operations, and market strategy — offering a truly integrated approach to
-              business success.
+              Our strategic consultancy practice covers everything from business planning and
+              operational efficiency to end-to-end project management and acceptance testing —
+              ensuring every initiative is delivered on time, within scope, and to the highest standard.
             </p>
           </FadeInSection>
 

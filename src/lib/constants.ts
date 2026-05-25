@@ -77,16 +77,16 @@ export const CORE_VALUES = [
   {
     number: "01",
     title: "Integrity",
-    description: "We operate with unwavering honesty and transparency in every engagement.",
+    description: "Honest, transparent engagements — in trade, technology and strategy alike.",
   },
   {
     number: "02",
-    title: "Precision",
-    description: "Data-driven decisions and meticulous execution define our approach.",
+    title: "Intelligence",
+    description: "We combine market expertise with AI and data science to deliver sharper, faster decisions.",
   },
   {
     number: "03",
-    title: "Partnership",
-    description: "Your success is our success. We invest in long-term relationships.",
+    title: "Execution",
+    description: "From project kickoff to acceptance testing, we deliver on what we commit to.",
   },
 ]
