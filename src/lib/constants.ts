@@ -12,24 +12,39 @@ export const SERVICES = [
   {
     title: "Trading",
     description:
-      "We facilitate global commodity and goods trading with precision, connecting buyers and sellers across markets.",
+      "We facilitate global commodity and goods trading with precision, connecting buyers and sellers across international markets.",
     offerings: [
       "Commodity & goods trading",
       "Market analysis & intelligence",
       "Import/export facilitation",
-      "Supply chain optimization",
+      "Supply chain optimisation",
+      "Trade risk assessment",
     ],
     icon: "chart",
   },
   {
-    title: "Business Consultancy",
+    title: "Technology & AI Consultancy",
     description:
-      "We deliver strategic advisory services that help businesses grow, optimise operations, and enter new markets.",
+      "We design and implement cutting-edge technology solutions — from AI-native integrations to full software delivery — that transform how your business operates.",
     offerings: [
-      "Market entry strategy",
-      "Operational efficiency",
-      "Financial advisory",
-      "Business development",
+      "AI native integration & implementation",
+      "AI orchestration & intelligent automation",
+      "Software solution design & delivery",
+      "Statistical analysis & predictive modelling",
+      "Market study & data-driven re-prediction",
+    ],
+    icon: "cpu",
+  },
+  {
+    title: "Strategic & Project Consultancy",
+    description:
+      "We provide end-to-end consultancy across business strategy, planning, project execution and quality assurance — covering every stage of your growth journey.",
+    offerings: [
+      "Business planning & development",
+      "Project management (end-to-end)",
+      "Project acceptance testing & QA",
+      "Operational strategy & efficiency",
+      "Market entry & growth advisory",
     ],
     icon: "briefcase",
   },
@@ -38,7 +53,7 @@ export const SERVICES = [
 export const WHY_US = [
   {
     title: "Proven Expertise",
-    description: "Years of hands-on experience in trading and strategic consultancy across diverse industries.",
+    description: "Deep experience across trading, AI implementation, software delivery and strategic consultancy.",
     icon: "star",
   },
   {
@@ -53,7 +68,7 @@ export const WHY_US = [
   },
   {
     title: "Tailored Solutions",
-    description: "Every strategy is designed specifically for your business context and goals.",
+    description: "From AI integration to project delivery — every solution is designed for your specific context.",
     icon: "target",
   },
 ]

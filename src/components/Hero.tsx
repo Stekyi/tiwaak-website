@@ -27,7 +27,7 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
         <FadeInSection>
           <p className="text-accent font-semibold tracking-widest text-sm uppercase mb-4">
-            Trading &amp; Business Consultancy
+            Trading · Technology · Consultancy
           </p>
         </FadeInSection>
 
@@ -42,8 +42,8 @@ export default function Hero() {
 
         <FadeInSection delay={0.2}>
           <p className="mt-6 text-lg text-gray-600 max-w-xl leading-relaxed">
-            TiwaAK bridges global markets and strategic thinking — empowering businesses
-            to trade smarter, grow faster, and compete with confidence.
+            TiwaAK bridges global trade, intelligent technology and end-to-end consultancy —
+            empowering businesses to operate smarter, scale faster, and lead with confidence.
           </p>
         </FadeInSection>
 
