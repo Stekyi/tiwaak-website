@@ -6,7 +6,7 @@ export const NAV_LINKS = [
 ]
 
 export const CONTACT_EMAIL = "info@tiwaak.com"
-export const FORMSPREE_ENDPOINT = "https://formspree.io/f/YOUR_FORM_ID"
+export const FORMSPREE_ENDPOINT = "https://formspree.io/f/xqejyzaj"
 
 export const SERVICES = [
   {
